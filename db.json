@@ -2,7 +2,7 @@
   "clues": [
     {
       "clueId": 1,
-      "associatedClue": "Clue 1",
+      "clueText": "What barbarous forename is not part of the surname?",
       "summary": "lorem ipsum",
       "solved": false,
       "tags": "tag1, tag2",
@@ -15,7 +15,7 @@
     },
     {
       "clueId": 2,
-      "associatedClue": "Clue 2",
+      "clueText": "When Winter’s revenge was virulently acidic, what was the client?",
       "summary": "lorem ipsum",
       "solved": true,
       "tags": "tag1, tag2",
@@ -28,7 +28,7 @@
     },
     {
       "clueId": 3,
-      "associatedClue": "Clue 3",
+      "clueText": "Near which establishment do cows apparently walk, canter and gallop?",
       "summary": "lorem ipsum",
       "solved": true,
       "tags": "tag1, tag2",
@@ -41,7 +41,6 @@
     },
     {
       "clueId": 4,
-      "associatedClue": "Clue 4",
       "summary": "lorem ipsum",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue4.png",
       "solved": false,
@@ -55,7 +54,6 @@
     },
     {
       "clueId": 5,
-      "associatedClue": "Clue 5",
       "summary": "lorem ipsum",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue5.png",
       "solved": false,
@@ -69,7 +67,6 @@
     },
     {
       "clueId": 6,
-      "associatedClue": "Clue 6",
       "summary": "lorem ipsum",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue6.png",
       "solved": false,
@@ -83,7 +80,6 @@
     },
     {
       "clueId": 7,
-      "associatedClue": "Clue 7",
       "summary": "lorem ipsum",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue7.png",
       "solved": false,
@@ -97,7 +93,6 @@
     },
     {
       "clueId": 8,
-      "associatedClue": "Clue 8",
       "summary": "lorem ipsum",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue8.png",
       "solved": true,
@@ -112,7 +107,6 @@
     },
     {
       "clueId": 9,
-      "associatedClue": "Clue 9",
       "parentClue": "Clue 8",
       "summary": "lorem ipsum",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue9.png",
@@ -122,7 +116,6 @@
     },
     {
       "clueId": 10,
-      "associatedClue": "Clue 10",
       "parentClue": "Clue 8",
       "summary": "lorem ipsum",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue10.png",
