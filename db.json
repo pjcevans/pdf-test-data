@@ -1,0 +1,17 @@
+{
+  "clues": [
+    {
+      "id": 1,
+      "title": "hello",
+      "solved": false
+    },
+    {
+      "id": 2,
+      "title": "goodbye",
+      "solved": true
+    }
+  ],
+  "profile": {
+    "name": "pabloverview test data"
+  }
+}
