@@ -3,7 +3,7 @@
     {
       "clueId": 1,
       "text": "What barbarous forename is not part of the surname?",
-      "summary": "lorem ipsum",
+      "summary": "It was 'Hill'. John Watson had a fake business card with the name \"Dr Hill Barton\" https://en.wikipedia.org/wiki/The_Adventure_of_the_Illustrious_Client",
       "solved": false,
       "tags": "tag1, tag2",
       "pdfLocation": {
@@ -16,7 +16,7 @@
     {
       "clueId": 2,
       "text": "When Winter’s revenge was virulently acidic, what was the client?",
-      "summary": "lorem ipsum",
+      "summary": "Conan, as in Conan the Barbarian. Conan is actually a middle name, despite it often being included as if it was part of a surname",
       "solved": true,
       "tags": "tag1, tag2",
       "pdfLocation": {
@@ -29,7 +29,7 @@
     {
       "clueId": 3,
       "text": "Near which establishment do cows apparently walk, canter and gallop?",
-      "summary": "lorem ipsum",
+      "summary": "Illustrious \n The Adventure of the Illustrious Client",
       "solved": true,
       "tags": "tag1, tag2",
       "pdfLocation": {
