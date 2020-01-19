@@ -1,6 +1,7 @@
 {
   "clues": [
     {
+      "clueId": 1,
       "associatedClue": "Clue 1",
       "summary": "lorem ipsum",
       "solved": false,
@@ -13,6 +14,7 @@
       }
     },
     {
+      "clueId": 2,
       "associatedClue": "Clue 2",
       "summary": "lorem ipsum",
       "solved": true,
@@ -25,6 +27,7 @@
       }
     },
     {
+      "clueId": 3,
       "associatedClue": "Clue 3",
       "summary": "lorem ipsum",
       "solved": true,
@@ -37,6 +40,7 @@
       }
     },
     {
+      "clueId": 4,
       "associatedClue": "Clue 4",
       "summary": "lorem ipsum",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue4.png",
@@ -50,6 +54,7 @@
       }
     },
     {
+      "clueId": 5,
       "associatedClue": "Clue 5",
       "summary": "lorem ipsum",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue5.png",
@@ -63,6 +68,7 @@
       }
     },
     {
+      "clueId": 6,
       "associatedClue": "Clue 6",
       "summary": "lorem ipsum",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue6.png",
@@ -76,6 +82,7 @@
       }
     },
     {
+      "clueId": 7,
       "associatedClue": "Clue 7",
       "summary": "lorem ipsum",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue7.png",
@@ -89,6 +96,7 @@
       }
     },
     {
+      "clueId": 8,
       "associatedClue": "Clue 8",
       "summary": "lorem ipsum",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue8.png",
@@ -103,6 +111,7 @@
       "childClues": ["Clue 9", "Clue 10"]
     },
     {
+      "clueId": 9,
       "associatedClue": "Clue 9",
       "parentClue": "Clue 8",
       "summary": "lorem ipsum",
@@ -112,6 +121,7 @@
       "pdfLocation": null
     },
     {
+      "clueId": 10,
       "associatedClue": "Clue 10",
       "parentClue": "Clue 8",
       "summary": "lorem ipsum",
