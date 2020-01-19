@@ -2,7 +2,7 @@
   "clues": [
     {
       "clueId": 1,
-      "clueText": "What barbarous forename is not part of the surname?",
+      "text": "What barbarous forename is not part of the surname?",
       "summary": "lorem ipsum",
       "solved": false,
       "tags": "tag1, tag2",
@@ -15,7 +15,7 @@
     },
     {
       "clueId": 2,
-      "clueText": "When Winter’s revenge was virulently acidic, what was the client?",
+      "text": "When Winter’s revenge was virulently acidic, what was the client?",
       "summary": "lorem ipsum",
       "solved": true,
       "tags": "tag1, tag2",
@@ -28,7 +28,7 @@
     },
     {
       "clueId": 3,
-      "clueText": "Near which establishment do cows apparently walk, canter and gallop?",
+      "text": "Near which establishment do cows apparently walk, canter and gallop?",
       "summary": "lorem ipsum",
       "solved": true,
       "tags": "tag1, tag2",
