@@ -1,17 +1,122 @@
-{
-  "clues": [
-    {
-      "id": 1,
-      "title": "hello",
-      "solved": false
-    },
-    {
-      "id": 2,
-      "title": "goodbye",
-      "solved": true
+[
+  {
+    "associatedClue": "Clue 1",
+    "summary": "lorem ipsum",
+    "solved": false,
+    "tags": "tag1, tag2",
+    "pdfLocation": {
+      "left": 71,
+      "width": 238,
+      "top": 66,
+      "height": 14
     }
-  ],
-  "profile": {
-    "name": "pabloverview test data"
+  },
+  {
+    "associatedClue": "Clue 2",
+    "summary": "lorem ipsum",
+    "solved": true,
+    "tags": "tag1, tag2",
+    "pdfLocation": {
+      "left": 75,
+      "width": 248,
+      "top": 91,
+      "height": 14
+    }
+  },
+  {
+    "associatedClue": "Clue 3",
+    "summary": "lorem ipsum",
+    "solved": true,
+    "tags": "tag1, tag2",
+    "pdfLocation": {
+      "left": 76,
+      "width": 295,
+      "top": 107,
+      "height": 11
+    }
+  },
+  {
+    "associatedClue": "Clue 4",
+    "summary": "lorem ipsum",
+    "image": "https://pjcevans.github.io/images/pablos/2019/Clue4.png",
+    "solved": false,
+    "tags": "tag1, tag2",
+    "pdfLocation": {
+      "left": 67,
+      "width": 48,
+      "top": 178,
+      "height": 56
+    }
+  },
+  {
+    "associatedClue": "Clue 5",
+    "summary": "lorem ipsum",
+    "image": "https://pjcevans.github.io/images/pablos/2019/Clue5.png",
+    "solved": false,
+    "tags": "tag1, tag2",
+    "pdfLocation": {
+      "left": 124,
+      "width": 52,
+      "top": 179,
+      "height": 55
+    }
+  },
+  {
+    "associatedClue": "Clue 6",
+    "summary": "lorem ipsum",
+    "image": "https://pjcevans.github.io/images/pablos/2019/Clue6.png",
+    "solved": false,
+    "tags": "tag1, tag2",
+    "pdfLocation": {
+      "left": 407,
+      "width": 97,
+      "top": 409,
+      "height": 68
+    }
+  },
+  {
+    "associatedClue": "Clue 7",
+    "summary": "lorem ipsum",
+    "image": "https://pjcevans.github.io/images/pablos/2019/Clue7.png",
+    "solved": false,
+    "tags": "tag1, tag2",
+    "pdfLocation": {
+      "left": 419,
+      "width": 24,
+      "top": 342,
+      "height": 31
+    }
+  },
+  {
+    "associatedClue": "Clue 8",
+    "summary": "lorem ipsum",
+    "image": "https://pjcevans.github.io/images/pablos/2019/Clue8.png",
+    "solved": true,
+    "tags": "tag1, tag2",
+    "pdfLocation": {
+      "left": 155,
+      "width": 153,
+      "top": 614,
+      "height": 58
+    },
+    "childClues": ["Clue 9", "Clue 10"]
+  },
+  {
+    "associatedClue": "Clue 9",
+    "parentClue": "Clue 8",
+    "summary": "lorem ipsum",
+    "image": "https://pjcevans.github.io/images/pablos/2019/Clue9.png",
+    "solved": true,
+    "tags": "tag1, tag2",
+    "pdfLocation": null
+  },
+  {
+    "associatedClue": "Clue 10",
+    "parentClue": "Clue 8",
+    "summary": "lorem ipsum",
+    "image": "https://pjcevans.github.io/images/pablos/2019/Clue10.png",
+    "solved": true,
+    "tags": "tag1, tag2",
+    "pdfLocation": null
   }
-}
+]
