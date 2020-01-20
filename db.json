@@ -41,7 +41,7 @@
     },
     {
       "clueId": 4,
-      "summary": "lorem ipsum",
+      "summary": "Dylan Thomas - Plagiarised Conan Doyle; Dylan Thomas - picture appears in modern editions of Under Milk Wood (milkwood road feat in holmes).",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue4.png",
       "solved": false,
       "tags": "tag1, tag2",
@@ -54,7 +54,7 @@
     },
     {
       "clueId": 5,
-      "summary": "lorem ipsum",
+      "summary": "Katherine Hepburn. artwork: Katharine Hepburn -- \"Bo Peep as Sherlock Holmes\" - she was the sitter",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue5.png",
       "solved": false,
       "tags": "tag1, tag2",
@@ -67,7 +67,7 @@
     },
     {
       "clueId": 6,
-      "summary": "lorem ipsum",
+      "summary": "The adventure of the yellow face",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue6.png",
       "solved": false,
       "tags": "tag1, tag2",
@@ -80,7 +80,7 @@
     },
     {
       "clueId": 7,
-      "summary": "lorem ipsum",
+      "summary": "Dopler shift of red gem to blue = The Blue Carbuncle",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue7.png",
       "solved": false,
       "tags": "tag1, tag2",
@@ -93,7 +93,7 @@
     },
     {
       "clueId": 8,
-      "summary": "lorem ipsum",
+      "summary": "Waymarker / not resolved",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue8.png",
       "solved": true,
       "tags": "tag1, tag2",
@@ -108,7 +108,7 @@
     {
       "clueId": 9,
       "parentClue": "Clue 8",
-      "summary": "lorem ipsum",
+      "summary": "Waymarker",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue9.png",
       "solved": true,
       "tags": "tag1, tag2",
@@ -117,7 +117,7 @@
     {
       "clueId": 10,
       "parentClue": "Clue 8",
-      "summary": "lorem ipsum",
+      "summary": "Not resolved",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue10.png",
       "solved": true,
       "tags": "tag1, tag2",
