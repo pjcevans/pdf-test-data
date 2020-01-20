@@ -103,11 +103,11 @@
         "top": 614,
         "height": 58
       },
-      "childClues": ["Clue 9", "Clue 10"]
+      "childClues": [9, 10]
     },
     {
       "clueId": 9,
-      "parentClue": "Clue 8",
+      "parentClue": 8,
       "summary": "Waymarker",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue9.png",
       "solved": true,
@@ -116,7 +116,7 @@
     },
     {
       "clueId": 10,
-      "parentClue": "Clue 8",
+      "parentClue": 8,
       "summary": "Not resolved",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue10.png",
       "solved": true,
