@@ -2,7 +2,7 @@
   "clues": [
     {
       "clueId": 1,
-      "text": "John wasn’t Dr Barton’s first name – what was it?",
+      "text": "0. John wasn’t Dr Barton’s first name – what was it?",
       "summary": "It was 'Hill'. John Watson had a fake business card with the name \"Dr Hill Barton\" https://en.wikipedia.org/wiki/The_Adventure_of_the_Illustrious_Client",
       "solved": false,
       "tags": "tag1, tag2",
@@ -15,7 +15,7 @@
     },
     {
       "clueId": 2,
-      "text": "What barbarous forename is not part of the surname?",
+      "text": "1. What barbarous forename is not part of the surname?",
       "summary": "Conan, as in Conan the Barbarian. Conan is actually a middle name, despite it often being included as if it was part of a surname",
       "solved": true,
       "tags": "tag1, tag2",
@@ -28,7 +28,7 @@
     },
     {
       "clueId": 3,
-      "text": "When Winter’s revenge was virulently acidic, what was the client?",
+      "text": "2. When Winter’s revenge was virulently acidic, what was the client?",
       "summary": "Illustrious \n The Adventure of the Illustrious Client",
       "solved": true,
       "tags": "tag1, tag2",
