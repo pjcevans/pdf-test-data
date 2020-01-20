@@ -72,10 +72,10 @@
       "solved": false,
       "tags": "tag1, tag2",
       "pdfLocation": {
-        "left": 407,
-        "width": 97,
-        "top": 409,
-        "height": 68
+        "left": 419,
+        "width": 24,
+        "top": 342,
+        "height": 31
       }
     },
     {
@@ -85,10 +85,10 @@
       "solved": false,
       "tags": "tag1, tag2",
       "pdfLocation": {
-        "left": 419,
-        "width": 24,
-        "top": 342,
-        "height": 31
+        "left": 407,
+        "width": 97,
+        "top": 409,
+        "height": 68
       }
     },
     {
