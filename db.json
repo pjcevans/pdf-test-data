@@ -121,7 +121,12 @@
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue10.png",
       "solved": true,
       "tags": "tag1, tag2",
-      "pdfLocation": null
+      "pdfLocation": {
+        "left": 150,
+        "width": 60,
+        "top": 634,
+        "height": 55
+      },
     }
   ]
 }
