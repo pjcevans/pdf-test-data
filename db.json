@@ -2,6 +2,7 @@
   "clues": [
     {
       "clueId": 1,
+      "page": "2019 hunt 1",
       "text": "0. John wasn’t Dr Barton’s first name – what was it?",
       "summary": "It was 'Hill'. John Watson had a fake business card with the name \"Dr Hill Barton\" https://en.wikipedia.org/wiki/The_Adventure_of_the_Illustrious_Client",
       "solved": false,
@@ -15,6 +16,7 @@
     },
     {
       "clueId": 2,
+      "page": "2019 hunt 1",
       "text": "1. What barbarous forename is not part of the surname?",
       "summary": "Conan, as in Conan the Barbarian. Conan is actually a middle name, despite it often being included as if it was part of a surname",
       "solved": true,
@@ -28,6 +30,7 @@
     },
     {
       "clueId": 3,
+      "page": "2019 hunt 1",
       "text": "2. When Winter’s revenge was virulently acidic, what was the client?",
       "summary": "Illustrious \n The Adventure of the Illustrious Client",
       "solved": true,
@@ -41,6 +44,7 @@
     },
     {
       "clueId": 4,
+      "page": "2019 hunt 1",
       "summary": "Dylan Thomas - Plagiarised Conan Doyle; Dylan Thomas - picture appears in modern editions of Under Milk Wood (milkwood road feat in holmes).",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue4.png",
       "solved": false,
@@ -54,6 +58,7 @@
     },
     {
       "clueId": 5,
+      "page": "2019 hunt 1",
       "summary": "",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue5.png",
       "solved": false,
@@ -67,6 +72,7 @@
     },
     {
       "clueId": 6,
+      "page": "2019 hunt 1",
       "summary": "The adventure of the yellow face",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue6.png",
       "solved": false,
@@ -80,6 +86,7 @@
     },
     {
       "clueId": 7,
+      "page": "2019 hunt 1",
       "summary": "Dopler shift of red gem to blue = The Blue Carbuncle",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue7.png",
       "solved": false,
@@ -93,6 +100,7 @@
     },
     {
       "clueId": 8,
+      "page": "2019 hunt 1",
       "summary": "Waymarker / not resolved",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue8.png",
       "solved": true,
@@ -107,6 +115,7 @@
     },
     {
       "clueId": 9,
+      "page": "2019 hunt 1",
       "parentClue": 8,
       "summary": "Waymarker",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue9.png",
@@ -116,6 +125,7 @@
     },
     {
       "clueId": 10,
+      "page": "2019 hunt 1",
       "parentClue": 8,
       "summary": "Not resolved",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue10.png",
