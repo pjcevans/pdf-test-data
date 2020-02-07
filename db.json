@@ -137,6 +137,121 @@
         "top": 634,
         "height": 55
       }
+    },
+    {
+      "clueId": 11,
+      "page": "Dave's hunt 1",
+      "summary": "Statue outside the x y z center.",
+      "image": "https://pjcevans.github.io/images/pablos/2019/Clue11.png",
+      "solved": false,
+      "tags": "tag1, tag2",
+      "pdfLocation": {
+        left: 257,
+        width: 57,
+        top: 371,
+        height: 76
+      }
+    },
+    {
+      "clueId": 12,
+      "page": "Dave's hunt 1",
+      "summary": "An infuriatingly hard to find inscription on... a dock?",
+      "image": "https://pjcevans.github.io/images/pablos/2019/Clue12.png",
+      "solved": false,
+      "tags": "tag1, tag2",
+      "pdfLocation": {
+        left: 315,
+        width: 90,
+        top: 23,
+        height: 73,
+      }
+    },
+    {
+      "clueId": 13,
+      "page": "Dave's hunt 1",
+      "summary": "It's the something something",
+      "image": "https://pjcevans.github.io/images/pablos/2019/Clue13.png",
+      "solved": false,
+      "tags": "tag1, tag2",
+      "pdfLocation": {
+        left: 294,
+        width: 261,
+        top: 165,
+        height: 188
+      }
+    },
+    {
+      "clueId": 14,
+      "page": "Dave's hunt 2",
+      "summary": "Some stupid whale thing",
+      "image": "https://pjcevans.github.io/images/pablos/2019/Clue14.png",
+      "solved": false,
+      "tags": "tag1, tag2",
+      "pdfLocation": {
+        left: 294,
+        width: 261,
+        top: 165,
+        height: 188,
+      }
+    },
+    {
+      "clueId": 15,
+      "page": "Dave's hunt 2",
+      "parentClue": 17,
+      "summary": "Post-it code, the code itself",
+      "image": "https://pjcevans.github.io/images/pablos/2019/Clue15.png",
+      "solved": false,
+      "tags": "tag1, tag2",
+      "pdfLocation": {
+        left: 29,
+        width: 211,
+        top: 308,
+        height: 181
+      }
+    },
+    {
+      "clueId": 16,
+      "page": "Dave's hunt 2",
+      "parentClue": 17,
+      "summary": "Some old military dudes probably to do with post-it code",
+      "image": "https://pjcevans.github.io/images/pablos/2019/Clue16.png",
+      "solved": false,
+      "tags": "tag1, tag2",
+      "pdfLocation": {
+        left: 59,
+        width: 262,
+        top: 167,
+        height: 135
+      }
+    },
+    {
+      "clueId": 17,
+      "page": "Dave's hunt 2",
+      "summary": "Post-it code",
+      "image": "https://pjcevans.github.io/images/pablos/2019/Clue17.png",
+      "solved": false,
+      "tags": "tag1, tag2",
+      "pdfLocation": {
+        left: 28,
+        width: 215,
+        top: 162,
+        height: 327
+      },
+      "childClues": [15, 16]
+    },
+    {
+      "clueId": 18,
+      "page": "Dave's hunt 2",
+      "summary": "Scorecard. Signposts some important clues but the numbers are probably also significant.",
+      "image": "https://pjcevans.github.io/images/pablos/2019/Clue18.png",
+      "solved": false,
+      "tags": "tag1, tag2",
+      "pdfLocation": {
+        left: 662,
+        width: 97,
+        top: 228,
+        height: 81
+      }
     }
   ]
 }
