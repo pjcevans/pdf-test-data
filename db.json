@@ -297,6 +297,20 @@
         "height": 124
       },
       "childClues": [19, 20]
+    },
+    {
+      "clueId": 22,
+      "page": "Dave's hunt 1",
+      "text": "This place was particularly strict.",
+      "summary": "Ummmmm.",
+      "solved": false,
+      "tags": "tag1, tag2",
+      "pdfLocation": {
+        "left": 560,
+        "width": 112,
+        "top": 475,
+        "height": 32
+      }
     }
   ]
 }
