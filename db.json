@@ -146,10 +146,10 @@
       "solved": false,
       "tags": "tag1, tag2",
       "pdfLocation": {
-        left: 257,
-        width: 57,
-        top: 371,
-        height: 76
+        "left": 257,
+        "width": 57,
+        "top": 371,
+        "height": 76
       }
     },
     {
@@ -160,10 +160,10 @@
       "solved": false,
       "tags": "tag1, tag2",
       "pdfLocation": {
-        left: 315,
-        width: 90,
-        top: 23,
-        height: 73,
+        "left": 315,
+        "width": 90,
+        "top": 23,
+        "height": 73,
       }
     },
     {
@@ -174,10 +174,10 @@
       "solved": false,
       "tags": "tag1, tag2",
       "pdfLocation": {
-        left: 294,
-        width: 261,
-        top: 165,
-        height: 188
+        "left": 294,
+        "width": 261,
+        "top": 165,
+        "height": 188
       }
     },
     {
@@ -188,10 +188,10 @@
       "solved": false,
       "tags": "tag1, tag2",
       "pdfLocation": {
-        left: 294,
-        width: 261,
-        top: 165,
-        height: 188,
+        "left": 294,
+        "width": 261,
+        "top": 165,
+        "height": 188,
       }
     },
     {
@@ -203,10 +203,10 @@
       "solved": false,
       "tags": "tag1, tag2",
       "pdfLocation": {
-        left: 29,
-        width: 211,
-        top: 308,
-        height: 181
+        "left": 29,
+        "width": 211,
+        "top": 308,
+        "height": 181
       }
     },
     {
@@ -218,10 +218,10 @@
       "solved": false,
       "tags": "tag1, tag2",
       "pdfLocation": {
-        left: 59,
-        width: 262,
-        top: 167,
-        height: 135
+        "left": 59,
+        "width": 262,
+        "top": 167,
+        "height": 135
       }
     },
     {
@@ -232,10 +232,10 @@
       "solved": false,
       "tags": "tag1, tag2",
       "pdfLocation": {
-        left: 28,
-        width: 215,
-        top: 162,
-        height: 327
+        "left": 28,
+        "width": 215,
+        "top": 162,
+        "height": 327
       },
       "childClues": [15, 16]
     },
@@ -247,10 +247,10 @@
       "solved": false,
       "tags": "tag1, tag2",
       "pdfLocation": {
-        left: 662,
-        width: 97,
-        top: 228,
-        height: 81
+        "left": 662,
+        "width": 97,
+        "top": 228,
+        "height": 81
       }
     }
   ]
