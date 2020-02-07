@@ -256,7 +256,7 @@
     {
       "clueId": 19,
       "parentClue": 21,
-      "page": "Dave's hunt 2",
+      "page": "Dave's hunt 1",
       "text": "It's not a hole.",
       "summary": "duhh.",
       "solved": false,
@@ -271,7 +271,7 @@
     {
       "clueId": 20,
       "parentClue": 21,
-      "page": "Dave's hunt 2",
+      "page": "Dave's hunt 1",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue20.png",
       "summary": "An image of err someone.",
       "solved": false,
@@ -285,7 +285,7 @@
     },
     {
       "clueId": 21,
-      "page": "Dave's hunt 2",
+      "page": "Dave's hunt 1",
       "image": "https://pjcevans.github.io/images/pablos/2019/Clue21.png",
       "summary": "Holy compound clue.",
       "solved": false,
