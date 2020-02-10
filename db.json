@@ -315,6 +315,7 @@
     {
       "clueId": 23,
       "page": "2019 hunt 1",
+      "text": "",
       "summary": "It's a clue we haven't assigned a location to yet.",
       "solved": false,
       "tags": "tag1, tag2"
